@@ -4,7 +4,7 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCBD_Jv9gPu3GlI8IlR0aDOQ)
 
 
-![Marinho GitHub stats](https://github-readme-stats.vercel.app/api?username=MarinhoDevTi&show_icons=true&theme=dark)
+![Marinho GitHub stats](https://github-readme-stats.vercel.app/api?username=MarinhoDevTi&show_icons=true&theme=radical)
 
 
 
