@@ -28,7 +28,6 @@
 
 
 </div> </br>
-
 ## 💻 OS
 
 <div style="display: inline_block"><br/>
