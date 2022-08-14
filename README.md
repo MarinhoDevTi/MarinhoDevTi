@@ -46,9 +46,9 @@
 
 ## ⚙️ Ferramentas 
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,powershell, git, github, eclipse " />
+    <img src="https://skillicons.dev/icons?i=vscode,powershell,git,github,eclipse " />
   </a>
 </p>
 
