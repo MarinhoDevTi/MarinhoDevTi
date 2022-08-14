@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,html5,css3,java,python" />
+    <img src="https://skillicons.dev/icons?i=github,html,css3,java,python" />
   </a>
 </p>
 
