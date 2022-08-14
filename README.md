@@ -22,7 +22,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,java,python,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,java,python,github,git" />
   </a>
 </p>
 
@@ -43,6 +43,12 @@
 <img aling="center" alt="Kali Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
 </div> </br>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,linuxmint,centos,kalilinux,linux" />
+  </a>
+</p>
 
 
 
