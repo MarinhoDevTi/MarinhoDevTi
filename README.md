@@ -22,7 +22,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,java,python,github,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,java,python," />
   </a>
 </p>
 
@@ -45,6 +45,12 @@
 </div> </br>
 
 ## ⚙️ Ferramentas 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,powershell, git, github, eclipse " />
+  </a>
+</p>
 
 
 
