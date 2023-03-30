@@ -1,6 +1,6 @@
 ### Olá! eu sou o Diogo Marinho! 🙋🏼‍♂️👋
 
-### Teste 01
+### 
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogoms/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCBD_Jv9gPu3GlI8IlR0aDOQ)
